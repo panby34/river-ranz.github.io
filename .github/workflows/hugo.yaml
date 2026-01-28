@@ -1,5 +1,5 @@
-baseURL: 'http://localhost:1313/'
-title: TailBliss
+baseURL: 'https://panby34.github.io/river-ranz.github.io/'
+title: River Ranz
 languageCode: en-us
 theme: tailbliss
 DefaultContentLanguage: en
@@ -48,11 +48,11 @@ markup:
       xhtml: false
 
 params:
-  author: Nusser Studios
+  author: River Ranz
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  moto: "Programming and Narrative"
+  description: "yea"
   disable_theme_toggle: false
   disable_stay_uptodate: true
 
