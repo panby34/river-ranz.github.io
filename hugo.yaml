@@ -49,8 +49,8 @@ markup:
 
 params:
   author: River Ranz
-  authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
+  #authorimage: ../assets/images/global/author.webp
+  #og_image: /images/tailbliss-cover.png
   moto: "Portfolio"
   description: "Programming and Narrative"
   disable_theme_toggle: false
@@ -77,25 +77,9 @@ params:
               - "Heartbrook"
               - "With Love"
   p3:
-    heading: "Backed by world-renowned investors"
-    content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-    links:
-      - text: Meet our investors and advisors
-        url: "#"
-    logos:
-      - identifier: a
-        image: "images/global/sample-logo.svg"
-        alt: "a"
-      - identifier: b
-      - identifier: c
-      - identifier: d
-      - identifier: e
-      - identifier: f
-  p4:
     heading: "From the blog"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "This is where my blog posts will go!"
 
   social_media:
     github:
@@ -119,11 +103,8 @@ menu:
       weight: 10
     - identifier: blog
       name: Blog
-      url: /categories/blog/
+      url: /blog/
       weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
       weight: 30
     - identifier: contact
       name: Contact
