@@ -1,7 +1,7 @@
 baseURL: 'https://panby34.github.io/river-ranz.github.io/'
 title: River Ranz
 languageCode: en-us
-theme: tailbliss
+theme: stack
 DefaultContentLanguage: en
 enableEmoji: true
 enableGitInfo: false
