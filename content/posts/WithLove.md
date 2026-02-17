@@ -1,8 +1,8 @@
 ---
-title: "Welcome to LofiCode Theme"
-subtitle: "A cozy Hugo theme for developers and creatives"
+title: "With Love"
+subtitle: "A short visual novel with unqiue storytelling"
 date: 2025-01-01T10:00:00Z
-tags: ["hugo", "theme", "lofi", "cozy"]
+tags: ["narrative", "theme", "lofi", "cozy"]
 featured: true
 mood: "cozy"
 ---
