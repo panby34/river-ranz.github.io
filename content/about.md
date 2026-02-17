@@ -1,49 +1,14 @@
 ---
-title: "About LofiCode"
+title: "About"
 ---
 
-# About LofiCode Theme
+# About me!
 
-LofiCode is a Hugo theme designed for developers, writers, and creatives who appreciate the cozy, nostalgic aesthetic of lo-fi culture combined with modern web functionality.
+I'm a young game developer looking to make a splash in the industry! I'm primarily a game programmer, but I also have experience in narrative and design work. I'll jump at any chance to be creative!
 
-💻 Star us on [GitHub](https://github.com/meimakes/loficode-hugo-theme)!
+I have an interest in game AI, especially NPC behaviors. I really enjoy GOAP as an AI behavior technique, and am always looking to gain more experience with it (or other methods)! In addition to AI, I enjoy UI, particularly when it comes to video games. I enjoy menu and HUD design/implementation a lot!
 
-## The Philosophy
-
-In a world of fast-paced development and constant notifications, LofiCode offers a digital sanctuary. It's inspired by:
-
-- **Lo-fi hip hop culture** - The chill, relaxed vibe that helps you focus
-- **Coffee shop atmosphere** - Warm, welcoming spaces for creativity
-- **Retro aesthetics** - Nostalgic design elements with modern usability
-- **Developer comfort** - Tools and features that make coding and writing enjoyable
-
-## Features
-
-### 🎵 Ambient Sounds
-Built-in ambient sound player with carefully selected sounds to enhance your reading and writing experience.
-
-### ☕ Coffee Theme
-Reading time indicators using coffee cups, cozy color schemes, and warm typography that feels like your favorite café.
-
-### 🌙 Smart Theming
-Automatic dark/light mode detection with manual override, ensuring comfortable reading at any time of day.
-
-### 📱 Responsive Design
-Beautiful on all devices, from mobile phones to ultrawide monitors.
-
-### ⚡ Performance
-Optimized for speed without sacrificing features or aesthetics.
-
-## Perfect For
-
-- **Developer blogs** - Share your coding journey with style
-- **Creative portfolios** - Showcase your work in a warm, inviting environment
-- **Personal journals** - Document your thoughts and experiences
-- **Technical documentation** - Make even the driest content feel approachable
-
-## Get Started
-
-Ready to create your own cozy corner of the internet? Check out the [installation guide](https://github.com/meimakes/loficode-hugo-theme) and start building your perfect digital space.
+Outside of work, I love to play video games (of course), write, and be creative! I play guitar and crochet little plushies sometimes, and I love to try new hobbies when I get the chance. My favorite video games are *Final Fantasy VII Rebirth*, *The Legend of Zelda: Breath of the Wild*, and *Stardew Valley*.
 
 ---
 
