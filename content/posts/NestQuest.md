@@ -1,8 +1,8 @@
 ---
-title: "Git Workflow Zen: Finding Peace in Version Control"
-subtitle: "Mindful practices for cleaner commits and happier collaborations"
-date: 2024-01-20T16:45:00Z
-tags: ["git", "workflow", "collaboration", "best-practices"]
+title: "Nest Quest"
+subtitle: "A cute, child-friendly game."
+date: 2024-05-19T18:45:00Z
+tags: ["programming", "workflow", "collaboration"]
 mood: "Contemplative"
 ---
 
