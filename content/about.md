@@ -1,5 +1,6 @@
 ---
 title: "About me!"
+date: 2026-02-13T21:25:00Z
 ---
 
 I'm a young game developer looking to make a splash in the industry! I'm primarily a game programmer, but I also have experience in narrative and design work. I'll jump at any chance to be creative!
