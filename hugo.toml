@@ -66,6 +66,11 @@ enableEmoji = true
     lineNumbersInTable = false
     tabWidth = 2
     noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
 
 # Taxonomies
 [taxonomies]
