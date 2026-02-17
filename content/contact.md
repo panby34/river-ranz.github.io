@@ -8,5 +8,3 @@ title: "Contact"
 - LinkedIn: https://www.linkedin.com/in/river-ranz/
 
 ---
-
-*Thanks for being part of the LofiCode community! ☕💜*
