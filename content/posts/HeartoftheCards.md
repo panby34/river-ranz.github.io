@@ -1,7 +1,7 @@
 ---
-title: "The Perfect Coffee for Every Coding Session"
+title: "Heart of the Cards"
 subtitle: "A developer's guide to caffeinated productivity"
-date: 2024-01-05T08:00:00Z
+date: 2025-011-09T16:15:00Z
 tags: ["coffee", "productivity", "lifestyle", "focus"]
 mood: "Energized"
 ---
