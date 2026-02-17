@@ -29,13 +29,13 @@ enableEmoji = true
   path = "page"
 
 [params]
-  description = "A cozy example site showcasing the LofiCode Hugo theme"
+  description = "A cozy portfolio"
   tagline = "Coding with coffee and lo-fi beats ☕🎵"
 
   # Profile section
   [params.author]
-    name = "LofiCode Dev"
-    image = "images/profile.png"
+    name = "River Ranz"
+    #image = "images/profile.png"
 
   # Social links - Supported platforms: github, twitter, linkedin, email, mastodon, youtube, instagram, facebook
   [params.social]
