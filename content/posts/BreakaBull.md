@@ -32,7 +32,7 @@ mOrder.size = TeaSize.Small;
 ```
 
 {{< coffee-break title="Personality" >}}
-The code above was from the initial addition of order preferences to the game. There are only two possible options: black tea with milk or hibiscus tea. Do you know which *BreakaBull* customer this order belongs to?
+The code above was from the initial addition of order preferences to the game. There are only two possible options: black tea with milk or hibiscus tea. Do you know which BreakaBull customer this order belongs to?
 {{< /coffee-break >}}
 
 ### Narrative
