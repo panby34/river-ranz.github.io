@@ -8,6 +8,8 @@ mood: "Energized"
 
 *Heart of the Cards* was born from the intersection of dating sims and deckbuilders. For this 3-month project, our team worked to bring the idea to life. Unfortunately, things fell through, and in the end, the project ended up feeling incomplete.
 
+[INSERT KETCHUP RESPONSE]
+
 ## Our Intention
 
 We wanted to create something that hadn't been done before. The team was heavy on narrative specialists, and so we absolutely needed to have fun characters and an interesting story. Our game idea was formed fairly quickly, and the team was excited about the prospect of *Heart of the Cards*.
@@ -15,6 +17,8 @@ We wanted to create something that hadn't been done before. The team was heavy o
 ## So... What Happened?
 
 To make a long story short, the design scope was too much. We had only 2 designers on the team, and with all the mechanics and card types available in *Heart of the Cards*, they were stretched too thin. I joined some of the design meetings as a faux designer, but by that point in development, it was already too late. This resulted in a lot of half-baked ideas and unexplained mechanics, which made the game confusing and near impossible to understand. Additionally, because the design scope was so high, progress on programming had to be pushed back, resulting in a very intense programming crunch toward the end of the project. *Heart of the Cards* was eventually cancelled, and the team disbanded.
+
+[INSERT CRINGE]
 
 ### What Was Learned?
 
