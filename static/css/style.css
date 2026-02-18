@@ -511,7 +511,7 @@ nav {
 .post-layout {
     display: grid;
     grid-template-columns: 1fr 500px;
-    gap: 1rem;
+    gap: 2rem;
     align-items: start;
     margin-top: 2rem;
     max-width: 2000px;
